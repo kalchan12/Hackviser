@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Hackviser/Certified Associate Penetration Tester (CAPT)/Introduction to Cybersecurity/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Introduction"
             }
           }
         ]
@@ -183,9 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "1466be149bacc577",
+  "active": "70d10f666717acfc",
   "lastOpenFiles": [
     "README.md",
+    "Hackviser/Certified Associate Penetration Tester (CAPT)/Introduction to Cybersecurity/Introduction.md",
+    "Hackviser/Certified Associate Penetration Tester (CAPT)/Introduction to Cybersecurity",
+    "Hackviser/Certified Associate Penetration Tester (CAPT)",
+    "Hackviser",
     "assets",
     "Welcome.md"
   ]
