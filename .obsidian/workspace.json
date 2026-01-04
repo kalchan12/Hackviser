@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackviser/Certified Associate Penetration Tester (CAPT)/Introduction to Cybersecurity/Introduction.md",
+                "file": "Hackviser/Certified Associate Penetration Tester (CAPT)/Linux Fundamentals/Introduction to linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Introduction to linux"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "70d10f666717acfc",
   "lastOpenFiles": [
-    "README.md",
     "Hackviser/Certified Associate Penetration Tester (CAPT)/Introduction to Cybersecurity/Introduction.md",
+    "Hackviser/Certified Associate Penetration Tester (CAPT)/Linux Fundamentals/Introduction to linux.md",
+    "Hackviser/Certified Associate Penetration Tester (CAPT)/Linux Fundamentals",
+    "README.md",
     "Hackviser/Certified Associate Penetration Tester (CAPT)/Introduction to Cybersecurity",
     "Hackviser/Certified Associate Penetration Tester (CAPT)",
     "Hackviser",
